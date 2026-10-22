@@ -1,0 +1,6 @@
+{
+  "name": "SkillSprint",
+  "description": "Mobile-first micro-learning web app with short daily challenges, XP leveling, streak tracking, interactive quizzes, and AI tutor for students and beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
